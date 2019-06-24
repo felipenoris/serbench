@@ -1,0 +1,9 @@
+name = "serbench"
+uuid = "8da7d110-9676-11e9-32f8-8d2a2217a14f"
+authors = ["Richard Palethorpe <rpalethorpe@suse.com>"]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+BSONqs = "d4e7598c-6ff7-5b24-8fdc-8d1c0c33c9cf"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
